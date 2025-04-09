@@ -1,5 +1,5 @@
-# Copyright (c) by Zewen Yang under GPL-3.0 license
-# Last modified: Zewen Yang 02/2024
+# Copyright (c) by Zewen Yang under GNU General Public License v3 (GPLv3)
+# Last modified: Zewen Yang 11/2024
 
 from setuptools import find_packages, setup
 from typing import List

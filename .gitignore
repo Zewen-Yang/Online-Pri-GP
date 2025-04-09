@@ -1,6 +1,8 @@
 instruction.md 
 research/
 venvOLPriGP/
+DoS/
+results/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
